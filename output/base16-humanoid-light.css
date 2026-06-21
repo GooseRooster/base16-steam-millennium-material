@@ -20,12 +20,12 @@
     --md-sys-color-on-secondary-fixed:         rgb(248, 248, 242);
     --md-sys-color-on-secondary-fixed-variant: rgb(239, 239, 233);
     --md-sys-color-on-surface:                 rgb(35, 38, 41);
-    --md-sys-color-on-surface-variant:         rgb(96, 97, 93);
+    --md-sys-color-on-surface-variant:         rgb(35, 38, 41);
     --md-sys-color-on-tertiary:                rgb(248, 248, 242);
     --md-sys-color-on-tertiary-container:      rgb(47, 51, 55);
     --md-sys-color-on-tertiary-fixed:          rgb(248, 248, 242);
     --md-sys-color-on-tertiary-fixed-variant:  rgb(239, 239, 233);
-    --md-sys-color-outline:                    rgb(192, 192, 189);
+    --md-sys-color-outline:                    rgb(96, 97, 93);
     --md-sys-color-outline-variant:            rgb(222, 222, 216);
     --md-sys-color-primary:                    rgb(0, 130, 201);
     --md-sys-color-primary-container:          rgb(222, 222, 216);
