@@ -1,0 +1,4 @@
+base16-material-millennium:
+  filename: output/base16-{{ scheme-slug }}.css
+  supported-systems: [base16]
+  description: "Material Design System color tokens for Steam Millennium Material-Theme"
