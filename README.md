@@ -35,7 +35,13 @@ hook = "cp \"$TINTY_THEME_FILE_PATH\" ~/.steam/steam/steamui/skins/Material-Them
 supported-systems = ["base16"]
 ```
 
-### 3. Apply a scheme
+### 3. Create the custom CSS directory for millennium
+
+```sh
+  mkdir -p ~/.steam/steam/steamui/skins/Material-Theme/css/main/colors
+```
+
+### 4. Apply a scheme
 
 ```sh
 tinty apply base16-dracula
