@@ -2,6 +2,11 @@
 
 A [tinty](https://github.com/tinted-theming/tinty) template that maps a Base16 color scheme to Steam Millennium's [Material-Theme](https://github.com/tinted-theming/material-theme) skin, replacing [matugen](https://github.com/InioX/matugen) with the active tinty palette.
 
+## Screenshot
+<img width="3400" height="1280" alt="image" src="https://github.com/user-attachments/assets/3507cdce-9671-43c7-aca5-14aaa339c737" />
+
+
+
 ## How it works
 
 Material-Theme loads its color palette from `css/main/colors/matugen.css` when the "Matugen" color option is selected in `skin.json`. This template generates a drop-in replacement for that file using Base16 color variables, so any tinty scheme drives the Steam UI colors.
