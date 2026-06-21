@@ -28,7 +28,7 @@ In `skin.json`, set the **Color** option to `"Matugen"`.
 
 ```toml
 [[items]]
-path = "~/path/to/tinted-material-millennium"
+path = "https://github.com/GooseRooster/tinted-material-millennium"
 name = "tinted-material-millennium"
 themes-dir = "output"
 hook = "cp \"$TINTY_THEME_FILE_PATH\" ~/.steam/steam/steamui/skins/Material-Theme/css/main/colors/matugen.css"
