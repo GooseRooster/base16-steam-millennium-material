@@ -55,5 +55,4 @@ tinty apply base16-dracula
 
 ## Notes
 
-- `--hue-rotate` is set to `0deg` (neutral). The default Material-Theme value is `220deg`, which shifts icon hues toward blue. Adjust in the mustache template if desired.
 - Light Base16 schemes will work but are untested — the Material-Theme skin defaults to dark mode.
